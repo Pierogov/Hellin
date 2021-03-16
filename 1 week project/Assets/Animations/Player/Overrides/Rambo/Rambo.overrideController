@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rambo
+  m_Controller: {fileID: 9100000, guid: 0e060e72a267baf44bd9c34a79be50c6, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ee7c0ca6016a26d49ae5211df713f401, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ee7c0ca6016a26d49ae5211df713f401, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bb439ec2efccd5e4aaf71c7f2c179041, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bb439ec2efccd5e4aaf71c7f2c179041, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5cc4c5aaecc96f34b8d81597b26ff462, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5cc4c5aaecc96f34b8d81597b26ff462, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d60f8288e3b21a64da3d9ced864102c7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d60f8288e3b21a64da3d9ced864102c7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b1a7b8bdd6e17b6448d8187fe4d7d597, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b1a7b8bdd6e17b6448d8187fe4d7d597, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4e256f0b8fe7adb46bfb7420774faacf, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4e256f0b8fe7adb46bfb7420774faacf, type: 2}
